@@ -14,7 +14,7 @@ This portfolio presents my work on the Cyclistic bike-share case study, which is
 - **Business Task**: Understand how casual riders and annual members use Cyclistic bikes differently to maximize annual memberships.
 - **Data Sources**: Historical trip data from Divvy (2023-01 to 2024-12), licensed by Motivate International Inc.
 - **Tools Used**: RStudio with packages like tidyverse, lubridate, and scales.
-- **Code Repository**: [GitHub Link](https://github.com/yourusername/cyclistic-analysis) (see instructions below to set this up).
+- **Code Repository**: [GitHub Link](https://github.com/CdFlopy95/-How-Do-Annual-Members-and-Casual-Riders-Use-Cyclistic-Bikes-Differently-).
 - **Key Deliverables**: Cleaned data, summary statistics, visualizations, and top recommendations.
 
 ## Data and Methodology
@@ -70,7 +70,7 @@ These insights and the visualizations collectively reveal that members use Cycli
 
 ## Appendix: Code and Visualizations
 
-- **R Code**: Full script available on GitHub: [cyclistic_analysis.R](https://github.com/yourusername/cyclistic-analysis/blob/main/cyclistic_analysis.R).
+- **R Code**: Full script available on GitHub: [cyclistic_analysis.R](https://github.com/CdFlopy95/-How-Do-Annual-Members-and-Casual-Riders-Use-Cyclistic-Bikes-Differently-).
 - **Visualizations**:
   - Rides by Day: ![Rides by Day](rides_by_day.png)
   - Duration Boxplot: ![Duration Boxplot](duration_boxplot.png)
